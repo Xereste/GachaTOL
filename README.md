@@ -5,12 +5,12 @@ For testing purpose only.
 French description only
 
 
-<h1>Simulation gacha de Tales of Link.
+<h1>Simulation gacha de Tales of Link.</h1>
 
 Cette simulation repose sur des connaissances empiriques du gacha.
 
 
-<h2>Description du programme :
+<h2>Description du programme :</h2>
 
 
 * En exécutant le programme, il va d'abord afficher les chances d'avoir tel ou tel rareté.
@@ -30,7 +30,7 @@ Chaque chiffre correspond à une invocation particulière.
 * On peut en relancer autant qu'on veut à condition de ne pas indiquer un mauvais chiffre !
 
 
-<h2>Description du fonctionnement interne du programme :
+<h2>Description du fonctionnement interne du programme :</h2>
 
 
 * Un gacha est symbolisé dans ce programme par une liste de 100 entiers. Ces entiers peuvent aller de 1 à 3.
