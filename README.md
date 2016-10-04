@@ -72,3 +72,7 @@ Chaque chiffre correspond à une invocation particulière.
 <h2>Mise à jour</h2>
 
 Je ferai une mise à jour du programme quand j'aurai plus de données concernant le gacha.
+
+<h2>Utilisation</h2>
+
+* Vous êtes libre de partager, discuter, améliorer, cacher, voler, manger, critiquer, insulter, rigoler, détruire, changer le programme comme bon vous semble. Je me réserve le droit de récupérer les améliorations constructives pour justement améliorer le programme (et qu'il ressemble le plus à celui de Tales of Link).
