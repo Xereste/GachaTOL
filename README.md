@@ -15,11 +15,11 @@ Cette simulation repose sur des connaissances empiriques du gacha.
 
 * En exécutant le programme, il va d'abord afficher les chances d'avoir tel ou tel rareté.
 
-Le numéro 1 symbolise les 3* dans Tales of Link.
+Le numéro 1 symbolise les 3\* dans Tales of Link.
 
-Le numéro 2 symbolise les 4* dans Tales of Link.
+Le numéro 2 symbolise les 4\* dans Tales of Link.
 
-Le numéro 3 symbolise les 5* dans Tales of Link.
+Le numéro 3 symbolise les 5\* dans Tales of Link.
 
 * Les valeurs initiales sont censées être respectivement 64 %, 30 % et 6 %, mais le C# en a décidé autrement et c'est donc approximatif.
 
@@ -62,3 +62,13 @@ Chaque chiffre correspond à une invocation particulière.
 * Numéro 8  : Ça vous dira « Au revoir » et ça fermera le programme.
 
 *  Autre chose : Ça claquera un message d'erreur  et ça fermera le programme.
+
+<h2>Remarques à signaler</h2>
+
+* Il y a bizarrement de grosses chances de tomber sur la valeur 3 (une 5\* dans Tales of Link) en invocation normale. Ce qui n'est pas le cas dans Tales of Link (donc il y a un problème quelque part à ce niveau).
+
+* Il y a peu de chance de tomber sur une featured 3 (une 5\*), ce qui n'est pas normale (ou si ?).
+
+<h2>Mise à jour</h2>
+
+Je ferai une mise à jour du programme quand j'aurai plus de données concernant le gacha.
