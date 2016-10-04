@@ -4,3 +4,9 @@ c:\users\drago\documents\visual studio 2015\Projects\GachaTest\GachaTest\bin\Deb
 c:\users\drago\documents\visual studio 2015\Projects\GachaTest\GachaTest\obj\Debug\GachaTest.csprojResolveAssemblyReference.cache
 c:\users\drago\documents\visual studio 2015\Projects\GachaTest\GachaTest\obj\Debug\GachaTest.exe
 c:\users\drago\documents\visual studio 2015\Projects\GachaTest\GachaTest\obj\Debug\GachaTest.pdb
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\bin\Debug\GachaTest.exe.config
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\obj\Debug\GachaTest.exe
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\obj\Debug\GachaTest.pdb
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\bin\Debug\GachaTest.exe
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\bin\Debug\GachaTest.pdb
+E:\Documents\GitHub\GachaTOL\GachaTest\GachaTest\obj\Debug\GachaTest.csprojResolveAssemblyReference.cache
