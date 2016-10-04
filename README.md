@@ -42,3 +42,23 @@ Chaque chiffre correspond à une invocation particulière.
 * Après quoi, il lancement un random pour trouver une valeur dans le tableau.
 
 * À la fin, il n'y aura plus qu'à faire une petite interface pour lancer le gacha.
+
+<h2>Différentes options du programme :</h2>
+
+* Numéro 1 : Si vous tapez 1, vous allez faire une seule invocation. La première donnera forcément la valeur 2 ou plus. Les suivantes, ça prendra en compte la valeur 1.
+
+* Numéro 2 : C'est une invocation multiple de 10 invocations.  Il y aura une garantie de tomber parmi les 10 sur au moins 2 valeurs supérieures ou égales à 2. Pour chaque invocation, la valeur donnée sera prise dans la même liste.
+
+* NUméro 3 : C'est aussi une invocation multiple de 10 invocations avec une garantie de tomber sur au moins 2 valeurs supérieures ou égales à 2.  La seule différences est que pour chaque invocation, une nouvelle liste sera générée à chaque fois.
+
+* Numéro 4 : C'est la même chose que le numéro 2, sauf qu'on ajoute une possibilité de tomber sur une valeur 2 ou 3 obligatoirement featured. Le featured est à peut près le même délire que la garantie de tomber sur une valeur supérieure ou égale à 2 dans ce programme. Les chances de tomber sur 2 est de 83 % et sur 3, 17 %.
+
+* Numéro 5  : Même chose que le numéro 4. Cette fois-ci le taux est changé. Il y a 94 % de chance de tomber sur la valeur 2, et 6 % de chance de tomber sur la valeur 3.
+
+* Numéro 6  : C'est le numéro 3 avec le featured du numéro 4.
+
+* Numéro 7 : C'est le numéro 6 avec les chances du numéro 5.
+
+* Numéro 8  : Ça vous dira « Au revoir » et ça fermera le programme.
+
+*  Autre chose : Ça claquera un message d'erreur  et ça fermera le programme.
